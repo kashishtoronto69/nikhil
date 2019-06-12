@@ -8,7 +8,7 @@ package blackjack;
 
 /**
  *
- * @author kashi
+ * @author kashi sachdev
  */
 public class BlackJack {
 
